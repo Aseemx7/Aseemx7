@@ -1,7 +1,9 @@
-# *OPEN SOURCE ENTHUSIAST*👋
+# *Hey, I am Aseem*👋
+- 🌱 I’m currently learning frontend developemnt and DSA(Java).
+- 👯 I’m looking to collaborate on frontend projects.
+- 😄 Pronouns: he/him
 
 <!--
-**AseemsGit/AseemsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
