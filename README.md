@@ -4,8 +4,8 @@
 - 😄 Pronouns: he/him
 
 <!--START_SECTION:activity-->
-[![Aseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AseemsGit&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AseemsGit&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+1. 💪 Opened PR [#92](https://github.com/AyushSarode/LearningApp/pull/92) in [AyushSarode/LearningApp](https://github.com/AyushSarode/LearningApp)
+2. 💪 Opened PR [#86](https://github.com/bandya2003/CRM-Website/pull/86) in [bandya2003/CRM-Website](https://github.com/bandya2003/CRM-Website)
 <!--END_SECTION:activity-->
 
 <!--
