@@ -3,6 +3,8 @@
 - 👯 I’m looking to collaborate on frontend projects.
 - 😄 Pronouns: he/him
 
+![Aseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AseemsGit&theme=aura&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AseemsGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
