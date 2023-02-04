@@ -3,10 +3,7 @@
 - 👯 I’m looking to collaborate on frontend projects.
 - 😄 Pronouns: he/him
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/AyushSarode/LearningApp/pull/92) in [AyushSarode/LearningApp](https://github.com/AyushSarode/LearningApp)
-2. 💪 Opened PR [#86](https://github.com/bandya2003/CRM-Website/pull/86) in [bandya2003/CRM-Website](https://github.com/bandya2003/CRM-Website)
-<!--END_SECTION:activity-->
+
 
 <!--
 Here are some ideas to get you started:
